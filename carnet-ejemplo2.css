@@ -1,0 +1,39 @@
+/* carnet-ejemplo2.css GS25016 */
+
+pais {
+    background-color: lightblue;
+    display: block;
+    padding: 20px;
+}
+
+idiomas {
+    background-color: lightgreen;
+    display: block;
+    padding: 10px;
+}
+
+oficial, autoctono, segundo_idioma {
+    display: block;
+    font-size: 18px;
+}
+
+departamento {
+    background-color: white;
+    border: 2px solid blue;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+
+cabecera {
+    color: blue;
+    font-weight: bold;
+}
+
+habitantes {
+    color: green;
+}
+
+altura {
+    color: red;
+}

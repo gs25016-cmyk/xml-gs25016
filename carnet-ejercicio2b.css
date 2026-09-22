@@ -1,0 +1,49 @@
+/* carnet-ejercicio2b.css GS25016 */
+
+pais {
+    background-color: lightblue;
+    display: block;
+    padding: 15px;
+}
+
+idiomas {
+    background-color: lightgreen;
+    display: block;
+    padding: 10px;
+}
+
+oficial {
+    color: blue;
+    font-weight: bold;
+}
+
+autoctono {
+    color: green;
+    font-weight: bold;
+}
+
+segundo_idioma {
+    color: orange;
+    font-weight: bold;
+}
+
+departamento {
+    display: block;
+    background-color: white;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+cabecera {
+    color: blue;
+    font-weight: bold;
+}
+
+habitantes {
+    color: green;
+}
+
+altura {
+    color: red;
+}
